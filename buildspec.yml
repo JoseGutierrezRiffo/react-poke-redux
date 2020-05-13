@@ -11,7 +11,6 @@ phases:
   build:
     commands:
       - echo Testing...
-      - npm run test
       - echo Building....
       - npm run build
 cache:
